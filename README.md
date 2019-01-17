@@ -18,5 +18,5 @@ We report on the use of our DecidArch game to teach software architecture design
 ## Replication material
 This repository contains the game, survey, results, and detailed documentation of the research, available here:
 1. [DecidArchV2 Game Material.zip](https://github.com/DecidArch/DecidarchV2/blob/master/DecidArchV2%20Game%20Material.zip) - DecidArchV2 game material and rules
-2. [DecidArch Student Survey.pdf](https://github.com/DecidArch/DecidarchV2/blob/master/DecidArchV2%20Student%20Survey.pdf) - Survey adopted for the evaluation of the the learning objectives
-3. [Survey Results.csv](https://github.com/DecidArch/DecidarchV2/blob/master/DecidArchV2%20Student%20Survey%20(Responses).csv) - Raw data of the survey answers
+2. [DecidArchV2 Sudent Survey.pdf](https://github.com/DecidArch/DecidarchV2/blob/master/DecidArchV2%20Student%20Survey.pdf) - Survey adopted for the evaluation of the the learning objectives
+3. [DecidArchV2 Student Survey (Responses).csv](https://github.com/DecidArch/DecidarchV2/blob/master/DecidArchV2%20Student%20Survey%20(Responses).csv) - Raw data of the survey answers
